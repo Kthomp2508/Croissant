@@ -9,3 +9,12 @@ h1 {
 p {
     text-align: center;
 }
+
+.links {
+    text-align: center;
+}
+
+.croissant-photo {
+    display: block;
+    margin: 0 auto;
+}
